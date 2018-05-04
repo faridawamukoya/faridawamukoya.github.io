@@ -27,7 +27,7 @@
 				<nav class="main-navigation">
 					<button type="button" class="menu-toggle"><i class="fa fa-bars"></i> Menu</button>
 					<ul>
-						<li><a href="homepage.html">Home</a></li>
+						<li><a href="index.html">Home</a></li>
 						<li><a href="about-me.html">About me</a></li>
 						<li><a href="services.html">Services</a></li>
 						<li><a href="contact.html">Contact</a></li>
@@ -179,7 +179,7 @@
 				</div> <!-- End of .widget-area -->
 
 				<div class="row colophon text-center">
-					<p>copyright 2014 Company Name. Designed by Themezy. All rights reserved</p>
+					<p>copyright 2018.Farida wamukoya Designed by Themezy. All rights reserved</p>
 				</div> <!-- End of .colophon -->
 			</div>
 		</footer> <!-- End of .site-footer -->
