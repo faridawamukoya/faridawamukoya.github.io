@@ -5,7 +5,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0,maximum-scale=1">
 
-	<title>Services | Financial Advising</title>
+	<title>Services | Farida Wamukoya</title>
 	
 	<link rel="stylesheet" href="css/animate.min.css">
 	<link rel="stylesheet" href="style.css">
@@ -20,15 +20,15 @@
 			<div class="container">
 				<a href="index.html" id="branding">
 					<img src="images/lineo-icon-svgs/icon-8.svg" class="svg-icon">
-					<h1 class="site-title">Company Name</h1>
+					<h1 class="site-title">Farida Wamukoya</h1>
 					<small class="site-slogan">Slogan Here</small>
 				</a> <!-- End of #branding -->
 
 				<nav class="main-navigation">
 					<button type="button" class="menu-toggle"><i class="fa fa-bars"></i> Menu</button>
 					<ul>
-						<li><a href="homepage.html">Home</a></li>
-						<li><a href="about-us.html">About Us</a></li>
+						<li><a href="index.html">Home</a></li>
+						<li><a href="about-me.html">About me</a></li>
 						<li><a href="services.html">Services</a></li>
 						<li><a href="contact.html">Contact</a></li>
 					</ul>
@@ -40,8 +40,8 @@
 
 			<div class="hero fullwidth-block text-center primary-color">
 				<div class="container">
-					<h2 class="text-light wow fadeInUp">Vestibulun ante ipsum primis in faucibus orci.<br>
-						<strong>Sed sodales odio nisi pretium porta</strong>
+					<h2 class="text-light wow fadeInUp">Certificate in entrepreneurship.<br>
+						<strong>Diploma in entrpreneurship</strong>
 					</h2>
 				</div>
 			</div> <!-- End of .hero -->
@@ -51,7 +51,7 @@
 					<div class="schemes features">
 						<div class="scheme feature wow bounceIn" data-position="center" data-scheme-role="main">
 							<img src="images/lineo-icon-svgs/icon-26.svg" class="svg-icon">
-							<h3 class="feature-title">Financial advising</h3>
+							<h3 class="feature-title">Farid wamukoya</h3>
 							<small class="feature-subtitle">occaetat cupidatat</small>
 						</div>
 						<div class="scheme feature wow bounceIn" data-delay=".2s" data-position="top-left">
