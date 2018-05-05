@@ -40,8 +40,8 @@
 
 			<div class="hero fullwidth-block text-center primary-color">
 				<div class="container">
-					<h2 class="text-light wow fadeInUp">Vestibulun ante ipsum primis in faucibus orci.<br>
-						<strong>Sed sodales odio nisi pretium porta</strong>
+					<h2 class="text-light wow fadeInUp">Looking forward towards  achieving your goal.<br>
+						<strong>Yuo will make it.</strong>
 					</h2>
 				</div>
 			</div> <!-- End of .hero -->
@@ -51,7 +51,7 @@
 					<div class="schemes counters row">
 						<div class="col-sm-3 col-xs-6 col-us">
 							<div class="scheme counter wow bounceIn" data-align="top" data-size="medium">
-								<h3 class="number">1250 <small>hours worked</small></h3>
+								<h3 class="number">1250 <small></small></h3>
 							</div>
 						</div>
 						<div class="col-sm-3 col-xs-6 col-us">
@@ -93,8 +93,8 @@
 										<img src="images/dummy/person1.jpg" alt="John Simons">
 									</figure>
 									<div class="person-detail">
-										<h3 class="person-name">John Simons</h3>
-										<small class="person-title">CEO</small>
+										<h3 class="person-name"></h3>
+										<small class="person-title"></small>
 									</div>
 								</div>
 								<div class="person col-sm-12 col-xs-6 col-us wow fadeInUp" data-wow-duration=".5s"  data-wow-delay=".3s">
@@ -102,8 +102,8 @@
 										<img src="images/dummy/person2.jpg" alt="Patrick Watson">
 									</figure>
 									<div class="person-detail">
-										<h3 class="person-name">Patrick Watson</h3>
-										<small class="person-title">Sales manager</small>
+										<h3 class="person-name"></h3>
+										<small class="person-title"></small>
 									</div>
 								</div>
 								<div class="person col-sm-12 col-xs-6 col-us wow fadeInUp" data-wow-duration=".5s"  data-wow-delay=".6s">
@@ -147,13 +147,13 @@
 					<div class="col-md-3 col-sm-6">
 						<div class="widget">
 							<h3 class="widget-title">Social Media</h3>
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos veritatis non inventore</p>
+							<p>For more information you contact me on:</p>
 
 							<div class="social-links">
 								<a href="#"><i class="fa fa-facebook"></i></a>
 								<a href="#"><i class="fa fa-twitter"></i></a>
 								<a href="#"><i class="fa fa-google-plus"></i></a>
-								<a href="#"><i class="fa fa-pinterest"></i></a>
+								<a href="#"><i class="fa fa-linkedin"></i></a>
 							</div>
 						</div>
 					</div>
