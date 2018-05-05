@@ -51,13 +51,7 @@
 					<div class="row">
 						<div class="col-sm-6">
 							<div class="contact-form">
-								<h2 class="leading">Company Name Inc.</h2>
-								<p>534 Avenue Street, New York <br>office@companyname.com <br>(423) 87887688</p>
-														
-								<form action="#" class="row">
-									<div class="col-md-6">
-										<p class="control with-icon">
-											<label for="name" class="label-icon"><i class="fa fa-user"></i></label>
+								<h2 class="leading">Farida Wamukoya for="name" class="label-icon"><i class="fa fa-user"></i></label>
 											<input type="text" id="name" placeholder="Your name...">
 										</p>
 									</div>
@@ -93,8 +87,8 @@
 					<div class="col-md-3 col-sm-6">
 						<div class="widget">
 							<h3 class="widget-title">Contact</h3>
-							<p>Company Name INC. <br>534 Avenue Street. New York</p>
-							<p>office@companyname.com <br>(423) 9846 34487</p>
+							<p>Farida Wamukoya. <br>Olympic Estste. Nairobi</p>
+							<p>faridawamukoya@gmail.com <br>(254) 798339897</p>
 						</div>
 					</div>
 					<div class="col-md-3 col-sm-6">
@@ -111,13 +105,13 @@
 					<div class="col-md-3 col-sm-6">
 						<div class="widget">
 							<h3 class="widget-title">Social Media</h3>
-							<p>Lorem ipsum dolor sit amet, consectetur adipisicing elit. Quos veritatis non inventore</p>
+							<p>For more information you can contact  me on:</p>
 
 							<div class="social-links">
 								<a href="#"><i class="fa fa-facebook"></i></a>
 								<a href="#"><i class="fa fa-twitter"></i></a>
 								<a href="#"><i class="fa fa-google-plus"></i></a>
-								<a href="#"><i class="fa fa-pinterest"></i></a>
+								<a href="#"><i class="fa fa-linkrdin"></i></a>
 							</div>
 						</div>
 					</div>
@@ -133,7 +127,7 @@
 				</div> <!-- End of .widget-area -->
 
 				<div class="row colophon text-center">
-					<p>copyright 2014 Company Name. Designed by Themezy. All rights reserved</p>
+					<p>copyright 2018 Farida Wamukoya. Designed by Themezy. All rights reserved</p>
 				</div> <!-- End of .colophon -->
 			</div>
 		</footer> <!-- End of .site-footer -->
