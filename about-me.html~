@@ -5,7 +5,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0,maximum-scale=1">
 
-	<title>About Us | Financial Advising</title>
+	<title>About me | Entrpreneurship</title>
 
 	<link rel="stylesheet" href="css/animate.min.css">
 	<link rel="stylesheet" href="style.css">
@@ -20,7 +20,7 @@
 			<div class="container">
 				<a href="index.html" id="branding">
 					<img src="images/lineo-icon-svgs/icon-8.svg" class="svg-icon">
-					<h1 class="site-title">Company Name</h1>
+					<h1 class="site-title">Farida Wamukoya</h1>
 					<small class="site-slogan">Slogan Here</small>
 				</a> <!-- End of #branding -->
 
@@ -28,7 +28,7 @@
 					<button type="button" class="menu-toggle"><i class="fa fa-bars"></i> Menu</button>
 					<ul>
 						<li><a href="homepage.html">Home</a></li>
-						<li><a href="about-us.html">About Us</a></li>
+						<li><a href="about-us.html">About me</a></li>
 						<li><a href="services.html">Services</a></li>
 						<li><a href="contact.html">Contact</a></li>
 					</ul>
@@ -129,8 +129,8 @@
 					<div class="col-md-3 col-sm-6">
 						<div class="widget">
 							<h3 class="widget-title">Contact</h3>
-							<p>Company Name INC. <br>534 Avenue Street. New York</p>
-							<p>office@companyname.com <br>(423) 9846 34487</p>
+							<p>Farida Wamukoya. <br>Olympic estate. Nairobi</p>
+							<p>faridawamukoya@gmail.com <br>(254) 798339897</p>
 						</div>
 					</div>
 					<div class="col-md-3 col-sm-6">
@@ -169,7 +169,7 @@
 				</div> <!-- End of .widget-area -->
 
 				<div class="row colophon text-center">
-					<p>copyright 2014 Company Name. Designed by Themezy. All rights reserved</p>
+					<p>copyright 2018 Farida Wamukoya. Designed by Themezy. All rights reserved</p>
 				</div> <!-- End of .colophon -->
 			</div>
 		</footer> <!-- End of .site-footer -->
