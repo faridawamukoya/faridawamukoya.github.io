@@ -5,7 +5,7 @@
 	<meta http-equiv="X-UA-Compatible" content="IE=edge">
 	<meta name="viewport" content="width=device-width, initial-scale=1.0,maximum-scale=1">
 
-	<title>Financial Advising</title>
+	<title>Farida wamukoya</title>
 	<link rel="stylesheet" href="css/animate.min.css">
 	<link rel="stylesheet" href="style.css">
 	<!--[if lt IE 9]>
@@ -41,7 +41,7 @@
 			<div class="hero fullwidth-block text-center primary-color">
 				<div class="container">
 					<h2 class="text-light wow fadeInUp">Loking forward to be a successful entreprenuer. <br>
-						<strong>As an entreprenuer should  have desire to achive</strong>
+						<strong>As an entreprenuer should  have desire to achieve</strong>
 					</h2>
 				</div>
 			</div> <!-- End of .hero -->
@@ -61,7 +61,7 @@
 						<div class="col-sm-4">
 							<div class="feature wow fadeInUp" data-wow-delay=".3s">
 								<img src="images/lineo-icon-svgs/icon-18.svg" class="svg-icon">
-								<h3 class="feature-title">Stock</h3>
+								<h3 class="feature-title">Time is now</h3>
 								<div class="feature-desc">
 									<p>A successful entrepreneur should be commited and should also be a hardworking person. As an entrepreneur you should have the desire to achive.</p>
 								</div>
@@ -70,7 +70,7 @@
 						<div class="col-sm-4">
 							<div class="feature wow fadeInUp" data-wow-delay=".5s">
 								<img src="images/lineo-icon-svgs/icon-26.svg" class="svg-icon">
-								<h3 class="feature-title">Stock</h3>
+								<h3 class="feature-title">Begin your business now</h3>
 								<div class="feature-desc">
 									<p>As an entrepreneur you should have a business plan which will guide you on your business. It is important to have a business plan.</p>
 								</div>
@@ -135,7 +135,7 @@
 										<li>what is entrepreneurship</
 									
 										<li>what is a business idea</li>
-										<li>what is dusiness opportunity</li>
+										<li>what is business opportunity</li>
 									</ul>
 								</div>
 							</div>
