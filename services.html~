@@ -51,7 +51,7 @@
 					<div class="schemes features">
 						<div class="scheme feature wow bounceIn" data-position="center" data-scheme-role="main">
 							<img src="images/lineo-icon-svgs/icon-26.svg" class="svg-icon">
-							<h3 class="feature-title">Farid wamukoya</h3>
+							<h3 class="feature-title">Farida wamukoya</h3>
 							<small class="feature-subtitle">This are my projects.</small>
 						</div>
 						<div class="scheme feature wow bounceIn" data-delay=".2s" data-position="top-left">
@@ -65,7 +65,7 @@
 							<small class="feature-subtitle">I also  designed a banner. </small>
 						</div>
 						<div class="scheme feature wow bounceIn" data-delay=".6s" data-position="bottom-left">
-							<img src="images/lineo-icon-svgs/vowels1.gif" height="200px" width="200px" class="svg-icon">
+							<img src="images/lineo-icon-svgs/vowels1.gif" height="200px" width="00px" class="svg-icon">
 							<h3 class="feature-title">games </h3>
 							<small class="feature-subtitle"> I made a game for children </small>
 						</div>
@@ -180,7 +180,7 @@ You are all welcomed.</p>
 				</div> <!-- End of .widget-area -->
 
 				<div class="row colophon text-center">
-					<p>copyright 2014 Company Name. Designed by Themezy. All rights reserved</p>
+					<p>copyright 2018 Company Name. Designed by Themezy. All rights reserved</p>
 				</div> <!-- End of .colophon -->
 			</div>
 		</footer> <!-- End of .site-footer -->
